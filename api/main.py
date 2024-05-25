@@ -55,10 +55,3 @@ def get_descriptions(gender :str)-> str :
 if __name__ == '__main__':
     app.run(debug=True)
     
-    
-# url = apiRoute.format(10)
-# requete = requests.get(url)
-# personne= requete.json()
-# results = personne.get('results', [])
-# peoples= get_attribut(results)
-# print(peoples) 
