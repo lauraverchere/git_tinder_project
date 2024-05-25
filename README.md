@@ -8,6 +8,6 @@ Il est important de créer un environnement virtuel pour le bon fonctionnement d
   EXECUTION DES PROGRAMMES :  
 - Installation des paquets Python : Se rendre dans dossier api et exécuter dans le terminal de commande : pip install -r requirements.txt
   
-Il faudra lancer en simultané (via deux terminaux de commandes) l'API ainsi que l'application REACT
+Il faudra lancer en simultané (via deux terminaux de commandes) l'API ainsi que l'application REACT :
 - Lancement de l'API : Se rendre dans le dossier api et exécuter dans le terminal de commande : python main.py  
 - Lancement de l'application REACT : Se rendre dans le dossier app/src et exécuter dans le terminal de commande : npm run start
